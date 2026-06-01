@@ -115,4 +115,3 @@ Dashboard using Power BI / Tableau
 Web deployment using Flask / Django
 Output Overview:
 
-Screenshot 2026-03-29 123432 Screenshot 2026-03-29 123452 Screenshot 2026-03-29 123514 Screenshot 2026-03-29 123555 
