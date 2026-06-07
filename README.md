@@ -92,3 +92,13 @@ Inactive customers are at the highest risk of churn
 Customers using multiple products tend to stay longer
 Higher engagement and activity significantly reduce churn probability
 Customers with longer tenure are generally more loyal
+<img width="833" height="592" alt="Screenshot (87)" src="https://github.com/user-attachments/assets/9237db85-9650-43e6-9737-342da43996e1" />
+<img width="510" height="526" alt="Screenshot (88)" src="https://github.com/user-attachments/assets/93c5e15b-53bb-4259-be1b-3544ae7c1808" />
+<img width="795" height="548" alt="Screenshot (89)" src="https://github.com/user-attachments/assets/453f65b7-0559-455a-b7ef-c475f9968f77" />
+<img width="824" height="580" alt="Screenshot (90)" src="https://github.com/user-attachments/assets/22457e24-46dd-4b1e-80e5-0a99aa7ef916" />
+<img width="781" height="578" alt="Screenshot (91)" src="https://github.com/user-attachments/assets/22f7ecd4-0cfd-4cec-a15a-e81119ccf056" />
+<img width="990" height="749" alt="Screenshot (92)" src="https://github.com/user-attachments/assets/fbb336f6-607f-4d2d-aeb6-90f288d628c8" />
+
+
+
+
